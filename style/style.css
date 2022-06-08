@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#body{
+background-color: rgb(71, 71, 71);
+}
+
+#wrapper{
+    margin-top: 250px;
+    margin-left: 650px;
+    width: 300px;
+}
+
+/* buttons */
+#Number1{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 7px;
+    font-weight: bolder;
+}
+
+#Number2{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Number3{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Number4{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 7px;
+    font-weight: bolder;
+}
+
+#Number5{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Number6{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Number7{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 7px;
+    font-weight: bolder;
+}
+
+#Number8{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Number9{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Multiply{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Divide{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Plus{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Minus{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Point{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Equal{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#Zero{
+    width: 104px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#del{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+}
+
+#reset{
+    width: 104px;
+    height: 50px;
+    font-weight: bolder;    
+}
+
+/* buttons */
+
+#inputbox{
+    width: 265px;
+    height: 60px;
+    margin-bottom: 12px;
+}
